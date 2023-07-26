@@ -1,1 +1,21 @@
 /* write your override styles here */
+boday {
+    margin:auto;
+}
+#wall .tag-1  {
+   display:none; 
+}
+
+#wall {
+    background-color:red;
+
+}
+
+div#wall #tag-3.slick {
+    background: url(../images/tag-3.png) repeat;
+    z-index: 5;
+    display: block;
+    position: absolute;
+    top: 30px;
+    left: 50px;
+  }
